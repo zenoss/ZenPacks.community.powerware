@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.powerware'
 VERSION = '1.0'
 AUTHOR = 'Alexander Vorobiyov'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.powerware']
 INSTALL_REQUIRES = []
